@@ -1,0 +1,12 @@
+button.add {
+  font-size: 25px;
+  background: green;
+  /* padding-left: 0px; */
+  padding: 10px;
+}
+button.remove {
+  font-size: 25px;
+  background: green;
+  /* padding-left: 0px; */
+  padding: 10px;
+}
