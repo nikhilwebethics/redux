@@ -9,7 +9,7 @@ function Navbar(){
     return(
         <>
        <h1 className="nav">[REDUCER1] Changeable balance = {amount}</h1>
-       <h1 className="nav">[REDUCER2]second reducer not changeable static pass value to state {save}</h1>
+       <h1 className="nav">[REDUCER2]second reducer not changeable static pass value to state = {save}</h1>
        </>
     );
 }
